@@ -8,6 +8,10 @@
 - [http://yoember.com/](http://yoember.com/)
 - [https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application/](https://www.bignerdranch.com/blog/server-side-validation-in-your-ember-application/)
 
+## ember core
+
+ - [http://www.hutchinson.io/ember-services-and-dependency-injection/](http://www.hutchinson.io/ember-services-and-dependency-injection/)
+ - 
 ## mobile tools
 
  - [https://github.com/poetic/ember-cli-cordova](https://github.com/poetic/ember-cli-cordova)
