@@ -6,3 +6,4 @@ Just a place to store notes
 - [interesting languages](interesting-languages.md)
 - [crawling/spiders](crawling.md)
 - [workers](workers.md)
+- [vim](vim.md)
