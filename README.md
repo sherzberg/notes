@@ -7,3 +7,4 @@ Just a place to store notes
 - [crawling/spiders](crawling.md)
 - [workers](workers.md)
 - [vim](vim.md)
+- [cloud](cloud.md)
