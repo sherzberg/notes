@@ -28,3 +28,7 @@
  - [https://github.com/eviltrout/ember-cloaking](https://github.com/eviltrout/ember-cloaking)
  - [https://github.com/emberjs/list-view](https://github.com/emberjs/list-view)
  - [https://github.com/shaialon/ember-admin-dashboards](https://github.com/shaialon/ember-admin-dashboards)
+
+## search
+
+ - [https://github.com/vicentereig/hola-apps/blob/master/app/assets/javascripts/application/routes/apps/search.js](https://github.com/vicentereig/hola-apps/blob/master/app/assets/javascripts/application/routes/apps/search.js)
