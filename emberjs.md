@@ -16,6 +16,7 @@
 
  - [https://github.com/poetic/ember-cli-cordova](https://github.com/poetic/ember-cli-cordova)
  - [https://crosswalk-project.org/](https://crosswalk-project.org/)
+ - [https://github.com/driftyco/ionic-plugin-keyboard](https://github.com/driftyco/ionic-plugin-keyboard)
  
 ## animations
 
